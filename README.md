@@ -2,15 +2,17 @@
 
 A new Flutter project.
 
-## Getting Started
+I have succesfully completed TASK 1 and 2 , 
+for the 3rd task.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Task 3: Data Visualization with Pie Chart
+Added fl_chart to create an interactive Pie Chart.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+The Pie Chart dynamically displays category-wise expenses.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Displays category name, total amount, and icon dynamically.
+
+Users can visually analyze their spending patterns easily.
+
+
