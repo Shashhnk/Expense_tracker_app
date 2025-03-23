@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "507887061012",
+    "project_id": "com-cipherschools-assign-e8bc4",
+    "storage_bucket": "com-cipherschools-assign-e8bc4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507887061012:android:97db5e8be479db0d25bf01",
+        "android_client_info": {
+          "package_name": "com.example.com_cipherschools_assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507887061012-bu2np671cge3v9nvirv3uf4dfu1ste63.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.com_cipherschools_assignment",
+            "certificate_hash": "a90216cd73fcd736c143becb9ce42037992fd421"
+          }
+        },
+        {
+          "client_id": "507887061012-no13clqa1njvrs8un06jh97p5l2f59gc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.com_cipherschools_assignment",
+            "certificate_hash": "9950dcaba674ab7a71d5c84cdee4fc409c4d5c83"
+          }
+        },
+        {
+          "client_id": "507887061012-bto2dpe7fmjfma290i768klcslfp22gq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC119vupPV8HT-Jc41hKRjRrDip9spiBro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507887061012-bto2dpe7fmjfma290i768klcslfp22gq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "507887061012-2irqvnhg5om1ofauk0b3dhr1fri3u4bf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.comCipherschoolsAssignment"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
